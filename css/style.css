@@ -1,0 +1,134 @@
+.container{
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 61px;
+    max-width: 100%;
+}
+.heder-title {
+    text-align: left;
+}
+.header-title-link {
+    font-family: 'Myriad Pro',sans-serif;
+    color:  #000000;
+    font-size: 80px;
+    font-weight: 400;
+    text-decoration: none;
+}
+.blue-text {
+    font-family: 'Myriad Pro',sans-serif;
+    color:  #4bcaff;
+    font-size: 80px;
+    font-weight: 400;
+}
+.heder-menu {
+    background-color: #35444f;
+    text-align: center; 
+    margin-top: 45px;
+    line-height: 69px;
+}
+.header-menu-link {
+    display: inline-block;
+    font-family: 'Myriad Pro',sans-serif;
+    color:  #ffffff;
+    font-size: 24px;
+    text-decoration: none;  
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.header-menu-link:hover {
+    background-color: #222f3a;
+}
+
+
+
+
+
+
+.content-menu-link {
+font-family: 'Myriad Pro',sans-serif;
+color:  #495863;
+font-size: 26.99px;
+font-weight: 400;
+line-height: 89px;
+padding-left: 44px;
+
+    
+}
+.content-menu-link:hover{
+    background-color: #dcdcdc;
+    color: #000000;
+    padding-left: 69px;
+
+}
+.content-menu {
+    display: inline-block;
+    border: 1px solid #32424e;
+    width: 344px;
+}
+
+.main-image {
+    width: 320px;
+    height: 381px;
+    display: inline-block;
+    float: right;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 75px 268px 73px 297px;
+    margin-bottom: 20px;
+}
+
+.menu-description {
+   display: block;
+    margin:0 auto;
+     width: 815px;
+    margin-right: 420px;
+    
+ 
+
+}
+
+.description-text {
+   
+    font-family: 'Myriad Pro',sans-serif;
+    color:  #2c2b2b;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    padding-top: 30px;
+    
+}
+
+.bottom-logo {
+    display: inline-block;
+    float: right;
+    font-family: 'Myriad Pro';
+    color:  #0c1927;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 90px;
+    padding-right: 34px;
+    margin-bottom: 30px;
+}
+
+.bottom-menu-link {
+    font-family: 'Myriad Pro';
+    color:  #0c1927;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 90px;
+    text-align: left;
+    margin-left: 24px;
+    text-decoration: none;
+}
+.bottom-menu-link:hover{
+    color: #3181a6;
+      text-decoration: underline;
+}
+
+.bottom-menu {
+    margin-top: 22px;
+    margin-top: 21px;
+    background-color: #b5b8bb;
+}
